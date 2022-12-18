@@ -1,5 +1,5 @@
 <h1 align="center">XC2 Mythra / Windows XP Cursor for Linux</h1>
-<h2 align="center">Cursor taken from <a href="https://www.reddit.com/r/TempleOfMythra/">r/TempleOfMythra</h2>
+<h2 align="center">Cursor taken from <a href="https://old.reddit.com/r/TempleOfMythra/">r/TempleOfMythra</h2> 
 <p align="center">place the folder in ~/.icons/ (user-specific) or /usr/share/icons/ (system-wide)</p>
 
 <p align="center">
